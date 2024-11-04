@@ -1,0 +1,244 @@
+00:00:00:00 - 00:00:24:01
+Unknown
+Okay. Okay. Just. Just for my other side there. Yeah. Yeah. I'm gonna take it. Yeah. I'm not sure how to transfer large files or anything. Yes. So, like, so these are the three sets of figures that I'm thinking of using. Yeah. I'm not sure of the about the sort of the. Sorry, the the. So there's three.
+
+00:00:24:03 - 00:00:54:22
+Unknown
+Well, there's really two pieces to the story. Yeah. There's the spatial structure of change, as seen through mangrove cover and is seen through ndVi. and then there's this temporal description of change seen through ndVi. Yeah. Okay. Over. Was that also the UV? yes. Yeah. The ratio. Yeah. Which is more consistent with the mangrove cover space?
+
+00:00:54:24 - 00:01:26:10
+Unknown
+Yes. Yeah. Okay. And so you have sort of like two metrics. One is the cover type and the other is ndVi. Yeah. And you can look at it spatially or you can look at it temporally. Yes. Okay. between space and time. how would you think about the order of presenting them like, you know, which you would do you think you'd walk into first and how would it build to the other.
+
+00:01:26:12 - 00:02:01:07
+Unknown
+So when I think of how I thought about this before, I would go space first basically to describe the overall change and then switching to time to try to describe the processes behind that spatial change or get a better idea of what would have driven it. so yeah. yeah. So like if there's like losses, in mangroves or in space in certain areas, I would then go to the temporal part and see when that loss occurred.
+
+00:02:01:12 - 00:02:27:16
+Unknown
+Yeah. If it was more recent, if it was like where, when the whole talk about it happening, in the mid 20 tens and then it kind of recovering. now another question that I may ask myself is maybe, have to do spatial changes at different, points in time, to try to catch certain things. so the, the time series is, median.
+
+00:02:27:18 - 00:02:56:19
+Unknown
+No, mean cover. it's the mean cover, but then I'm not sure, like when there's that big drop in 2018. I'm not sure where exactly that's happening. Yes. And so that makes it for a bit of a weak argument when I go back and say, oh, look it job there, it's recovering. yeah. It's hard to connect the spatial change to the temporal change without actually showing spatial change at different points in time.
+
+00:02:56:20 - 00:03:03:13
+Unknown
+Okay. yeah. This is good. Yeah, yeah.
+
+00:03:03:15 - 00:03:32:19
+Unknown
+A possible structure would be. I agree with drawing spatial first. I also think it's more intuitive. People are going to grasp it immediately, you know, and then you could go from that to the time series. So, one. So you have the spatial picture across the entire decade. Yeah. And then you have the time development across the entire space, like the mean of the entire region.
+
+00:03:32:19 - 00:03:55:05
+Unknown
+Right? Yeah. And so what you're getting at there is that just aggregating either in space or in time. Could help to sort of identify and just make them better. Yeah. Yeah.
+
+00:03:55:07 - 00:04:26:02
+Unknown
+So I think yeah. Interesting. So it's, it's sort of there's, there's a lot of ways to slice this, because you could. You could show the spatial change between 2010, 2013, 2013, 2015. Right. And break it into three year pieces or something. Yeah. That would then focus on particular subregions that might show bigger changes.
+
+00:04:26:04 - 00:04:52:13
+Unknown
+And then from that same analysis, you could extract the mean ndVi or GVA ratio on a smaller scale. Yeah. And and look at how that affects you might have, you know, two subregions where one is really strongly affected by that drought period and one is not. And you can show those two time series that that sort of contrast the two.
+
+00:04:52:15 - 00:05:24:20
+Unknown
+this is all analysis right. Of, of the aggregated and breaking it apart. I think my inclination would be to have the paper start with the aggregated both in space and time, like basically the figures that you've got. And while we are developing those figures and writing that text, we mess around with different ways of disaggregating. and by the way, am I getting reactions as I gesture?
+
+00:05:24:21 - 00:05:44:24
+Unknown
+No. Sorry. No. So it does it. It does it sometimes. Yeah. I just see something like occasionally flashing on the bottom, and I don't have my self in the screen. Yeah. I didn't know if, like, thumbs up were appearing or not. I'm not seeing any confetti or it's it's it's such a silly feature to me and I think I can do deactivate it.
+
+00:05:45:01 - 00:06:11:11
+Unknown
+Anyway. And then. Okay, so, so that's kind of how I'm thinking about like, so okay, so we so cover change across the decade time series of mean EBV or mean or I sorry, mean ndVi or total UV ratio. Right. That's a really a mean. It's a ratio of the aggregated.
+
+00:06:11:13 - 00:06:33:02
+Unknown
+That's the the bulk presentation of results. there's a little bit we're going to have to do leading into that. We'll come back to that. Okay. And then we've got the analysis piece that that tries to get at what is driving the change. And that's where the disaggregation is going to be important. So so we've got our background introduction methods results.
+
+00:06:33:07 - 00:07:02:13
+Unknown
+Now what's in results. We want the results section to get to the 434 figures that you've got here. Right. The spatial picture of change and then the temporal change on the mean. Before that though, I think we have to show the spatial maps at the beginning and the end, before showing the change. Okay. Just again, to orient.
+
+00:07:02:15 - 00:07:38:04
+Unknown
+Right. and so you can think about what I mean. That's that's my first thought. As you start to develop that it might not be necessary, but it seems to me that we kind of need that intermediate step of what did we difference to create the change and what are we averaging to get the mean, you know, of, of ndVi, say, so that's so the results section then consists of like 2010 and 2020 mangrove cover or not.
+
+00:07:38:09 - 00:08:07:01
+Unknown
+That's just mangrove cover. But but that's the images categorization. Yeah. And 2010 versus 20 ndVi. Then we difference them to create the two figures that you've got there. Then we average them to create the time series right. Or aggregate them into the ratio. that's the results section. Okay. Now in discussion or analysis or whatever we want to call it.
+
+00:08:07:03 - 00:08:38:12
+Unknown
+We want to break those processes apart. And those figures we don't know yet. Yeah. Right. So, that's going to be some exploratory work here. You know, we might want to look at some some candidate figures, that break it into 2010 to 2015 and 2015 to 2020. and I would start that analysis with the spatial maps on shorter timescales.
+
+00:08:38:14 - 00:09:10:02
+Unknown
+that might lead us to think about subregion aggregation, to look at time series. But we start from the spatial for looking at that number idea that I had before that I kind of messed around with was binning my pixels. so that's more spatial. Yep. and so I would bin my pixels into for any given they bin them into I guess three categories like healthy, moderate, not healthy and gross.
+
+00:09:10:04 - 00:09:40:12
+Unknown
+And then looked at the evolution of those bins pretty much like spatially over time. Right. that could make that analysis part easier to track. Yep. Or for. Yeah, just easier if I do that first step of binning and then looking at those sub temporal skills. Yeah. I think that's a really insane idea. What would you use in that binning.
+
+00:09:40:12 - 00:10:03:05
+Unknown
+You would use a combination of categorization and ndVi. So I would use the ndVi for binning. But you want to focus just on those areas that have been identified as mangrove. Right. Yes. So you do mask. So I would mask. Okay. I think I'm already masking actually for in the area. So yeah, my ndVi right now is mangrove only is just mangroves.
+
+00:10:03:06 - 00:10:31:00
+Unknown
+And I'm only doing it on the maples. so yeah, that binning would be the ndVi within the mangrove forest. What's healthy, what's moderate, what's not healthy. And yeah, so I like that. and then I don't know, I had I don't know if you remember me kind of exploring distributions and trying to visualize distributions. Yeah. of the values of ndVi.
+
+00:10:31:02 - 00:11:03:22
+Unknown
+Yeah. that felt like a bit of a rabbit hole, to be honest. Yeah. But something in me still wants to kind of explore that I like. I feel like it could be helpful if I go down the binning route. Okay. One second. I just realized I need to. Set off something here.
+
+00:11:03:24 - 00:11:23:13
+Unknown
+I've got a second computer here that I'm trying to get set up, and it was stuck in a state where it was going to kill the battery if I didn't get a thought of anything about it. Yeah. it it shut down. Oh, my God, it's, like, completely blown up right now. Okay, there we go. All right. Good.
+
+00:11:23:15 - 00:11:56:08
+Unknown
+All right. Sorry. I can hear the fan starting to rev off my. Oh, boy. So, so. The distribution of ndVi. I think. So let me let me back up and ask, how would you define the thresholds between healthy, neutral and unhealthy or whatever you call the levels? I would follow literature. There's there's people have, you know, made different classifications of categories.
+
+00:11:56:08 - 00:12:16:20
+Unknown
+It's a bit loose. Not everyone seems to really agree. Yeah. on what the actual specific thresholds are, but they're all very close to each other. so I think right, healthy is between in general point seven and one that moderate is really 0.3, 2.7. It's a bit loose, but so I would just kind of stick to one.
+
+00:12:17:00 - 00:12:51:07
+Unknown
+Yeah. And keep going with it. I wonder if that if those thresholds in some way help with thinking about the distributions. so I would, I would kind of look at the distributions across those bins I guess, or. Yeah, looking at how many pixels are in a given bin any given year. Right. like is the forest as a whole, sliding more towards healthy, towards moderate or towards less healthy?
+
+00:12:51:08 - 00:13:34:13
+Unknown
+Like by looking at like the, the basically the ratio of pixels in each. I think that's a really productive path because when the spatially aggregated metrics. Drop, you know, it's not immediately clear if that is a spatially distributed sort of thing or if it's just that a subregion is really suffering, you know, I guess the combination of your two aggregated metrics, the, the UVB ratio and the ndVi kind of get at it, but it would be very easy to interpret.
+
+00:13:34:15 - 00:14:01:20
+Unknown
+You know, three time series of the percent of bins that are in the healthy, the neutral, the unhealthy, and how they evolve. Right. That could that could all be a single, see, honestly, exactly three line plots, a single, a single plot with three lines. Yeah. On the same scale? Yeah. I think I think that's a very.
+
+00:14:01:22 - 00:14:33:11
+Unknown
+I think we should look at that. Okay. And that's I, I would place that at the top priority for the next set of figures. Okay. that. That gets at the time variability. it adds a little bit different way. It has more detail to the. Yeah. Yeah. Because like second I'll go ahead. No, because I was going to say the, the issue of the distribution plots, usually was that you would get too busy.
+
+00:14:33:13 - 00:15:04:04
+Unknown
+if you were too busy, it was very hard to like really read them. but binning like that would definitely help. You know, it's still some aggregation, but it's simply, you know, like categorizing, categorizing. It really helps. making a. If you wanted, you could split those, each of those bins in half and can have six lines, but I don't know if it had any real meaning, you know, but, you know, you could do high healthy, low healthy, high neutral, low neutral high, unhealthy low.
+
+00:15:04:04 - 00:15:33:17
+Unknown
+And. I feel like I'd stick to for that. That's okay. Maybe split moderate into. Yeah. But yeah. Yeah. but the point the point is, you know, start with the three kind of C and then and then the other thing I think that we need to explore is, doing the change at at different time intervals, in particular focusing on what's the spatial response to that drought.
+
+00:15:33:19 - 00:15:55:00
+Unknown
+you know, and so it might be that you, you want to take, you know, a year from just before the drought to right in the middle of the drought. And look at that change. So it's so it's sort of a actually that that would be its own subsection in the paper. Right. So the main results are focused on decadal change.
+
+00:15:55:02 - 00:16:28:02
+Unknown
+Then we have another section that talks about, you know, the spatial response to a distinct event. and you know, look at that, that change over maybe just a 2 or 3 year period. and then we could look at the recovery, but it might be that we just focus on the disruption, the initial, you know, but I think, I think that would be the next thing I would suggest creating is that change from just before to in the middle and then maybe from, you know, middle to the end or sort of and, or maybe middle to the end of the, of my time range on this.
+
+00:16:28:04 - 00:16:47:23
+Unknown
+Yeah. Yeah. To see how that recovery is just, you know, just like, takes the whole recovery into account. Yeah. And, so that would be the second priority, I think. Okay. And then depending on what we see in those, we mean that we yeah I guess we yeah, we we pull on the thread and we do. We need to do more.
+
+00:16:47:23 - 00:17:13:07
+Unknown
+Do we read about this. Do we. You know, but I think the, the, the core results that you've got here change in mangrove, change in ndVi time series of mean ndVi, time series of Uvi ratio. You can write that section now. like that's the that's the results section. And I think you can those figures are great.
+
+00:17:13:08 - 00:17:36:05
+Unknown
+I think you're ready to go with those. as I said on the lead into those, you might need to show like 2010 cover, 2020 cover or or it might just be one example of cover. You know, it. If the deep if the differences are very subtle, then it might not be worth showing two of them, but showing it once.
+
+00:17:36:07 - 00:18:01:24
+Unknown
+and so it might just be the 2020 Mangrove 2020 categorization plot map and the 2020 ndVi distribution. and show those and then do the change and then do the change figures. Okay. Yeah, yeah. And then I guess I was going to ask you soon. Do you know if there would be any particular guidelines for figure making?
+
+00:18:01:24 - 00:18:32:02
+Unknown
+I feel like I'm kind of going in a blind. Oh, maybe I should just look for the journal. requirements. I mean, usually the the, journal, the article formats, you know, the templates and stuff will take just about any kind of graphics file. and so you make you can make the figure. However, it makes the most sense and convert it in the appropriate graphics file.
+
+00:18:32:04 - 00:18:55:08
+Unknown
+I would not integrate the caption into that graphics file. Okay. That will come separately in the document. Yeah, but the legend in other labels would be a part of it. Legend. Title weight. So no, there wouldn't be a title. There wouldn't be a title because the caption is exactly the title. Yeah, the title will be figure three.
+
+00:18:55:10 - 00:19:15:06
+Unknown
+Yeah yeah yeah yeah yeah. yeah. But but the the legend and labels and and so on are a part of it. You know, you know, so those don't get layered in later in terms of format sort of aspect ratio and stuff. It really depends on the figure. Yeah. You know you might have time series that run the entire width of the page.
+
+00:19:15:08 - 00:19:40:18
+Unknown
+You might have other plots that are, you know, sort of a single column, half page vertical structure. Right. You know, and figures like the one that we've got on the screen right now are probably going to take the top half of a page. You know, the whole thing. I think it's the more important thing is that, that the figure is structured in a way that makes the most sense for that figure.
+
+00:19:40:20 - 00:20:11:20
+Unknown
+in terms of its shape and its aspect ratio and so on. how does that does that answering the question that you've had? Yeah. Yeah yeah yeah, yeah. Okay. yeah, I think okay. That makes sense. Yeah. So, so I think what okay, so you've got this bug you're working through. Yeah. but then in terms of the paper, for the next, possibly ten days.
+
+00:20:11:20 - 00:20:20:18
+Unknown
+Right. Because our next year, you're out Thursday from Thursday, right? this is see?
+
+00:20:20:20 - 00:20:47:22
+Unknown
+You. Because I'm in Michigan this Thursday, and I don't return until midnight Monday night, so, so I think our next meeting would be on Thursday the ninth. Okay. so. Or we could actually. Would you be would you want to meet on on Tuesday or Wednesday? Tuesday or Wednesday could work. I mean, it's finals week, so, let's responsibilities.
+
+00:20:47:22 - 00:21:10:03
+Unknown
+Okay. I don't really have a final. I think I just have to proctor on Thursday night. So Tuesday can work? Yeah, I'm just thinking, because it'd be a little less of a gap then. So I'm going to move that Thursday meeting over to Tuesday at the same time. Same time. Yeah. Okay, so this event. Okay.
+
+00:21:10:04 - 00:21:28:11
+Unknown
+So you should get that update. And I think I'll probably need to be on zoom, that morning or that, that noon, I guess. But, that works. I should be saying some ways it works better for looking at figures. okay, so. So we'll meet then. So it's only it's only a week from tomorrow, so. Doesn't feel okay.
+
+00:21:28:15 - 00:21:52:15
+Unknown
+Yeah. So, so for up to that is, I guess, getting the figures down on the paper for the results section and starting to write around the results section. Exactly. Yeah. And hopefully I figure out this bug as quick as possible so that I can start kind of as I'm writing that general results section, I can start building those extra fingers.
+
+00:21:52:20 - 00:22:01:15
+Unknown
+Yeah. For more of the analysis. Yeah. yeah. And I think.
+
+00:22:01:17 - 00:22:28:15
+Unknown
+I think that with the I mean, if we start with, you know, just presenting the map of, cover type, the map of ndVi, writing about that, I hope, is not not too I mean, it's really just going to be like describing what the excess, you know? Here it is. Yeah. with with the knowledge that the people reading it haven't looked at these figures before.
+
+00:22:28:17 - 00:22:50:13
+Unknown
+Right. So how do you. Yeah. What are the things that you would say to someone if you show it to them for the very first time, I guess. Describe what feels obvious to me. Yes, I guess, yeah. The things that you would want them to take away from it, even though it feels obvious that's what you put in the text right?
+
+00:22:50:15 - 00:23:16:03
+Unknown
+and then going from those, those figures to the change in those same parameters again should be a pretty easy transition. Same thing we just looked at. But now taking the difference between these, these two years, describing the time variability is a little bit more of a leap because you've got to describe how it's aggregated and then and then describe the figure.
+
+00:23:16:05 - 00:23:31:17
+Unknown
+so it's kind of a little bit of a little bit of a methods kind of wrapped in there. Right. How do you do the spatial aggregation? But I don't think we, I don't think we separate that to the methods section because it'll be, it'll, it'll, it'll be yeah. It'll be a bit annoying to read I guess.
+
+00:23:31:19 - 00:23:58:06
+Unknown
+Yeah. Yeah, yeah. Field to separate from. Exactly. Yeah, I think I think it's going to be a few sentences here. so. Right. So I think it would be great to start to work on that writing. I think the figures are made more or less. They can be working figures at this point, you know, like the ones we're looking at.
+
+00:23:58:08 - 00:24:28:21
+Unknown
+and so to start to write that section. So we have, we have essentially like three things going on here. Right. We have the debugging. Yeah. We have writing this core results section. And then there's, you know, figures and figures to the there. So debug. So I mean debugging is priority for the next couple of days. Yeah. in parallel as it depends I can start writing the results section since it's pretty much all like pretty much there.
+
+00:24:28:23 - 00:24:54:06
+Unknown
+Yep. and once the debugging is done, I can start looking at making figures. I think the writing world things right. run. Yeah. Yeah. That's a good structure. Yep. Sounds good. All right. So. All right. So, I think we got a plan. Yeah. I mean, I don't think of any of the any other updates, so.
+
+00:24:54:08 - 00:25:18:08
+Unknown
+Yeah. And, I have everything I need for the file mafia. I'm going to submit that by the end of next week. Yes, to the 10th, of course. I might even submit it later this week if I if I can get it read it is about a one page roughly document describing the research. Yeah. From anything from basically I've got I just need to get it out of my head and out of the paper.
+
+00:25:18:10 - 00:25:36:00
+Unknown
+you know, in a, you know, it'll be about the importance for the environment and climate stuff. So, I think it's I think I think it sells really well. You know, it fits with what they want to do, so who knows? Right. Listen, I don't get that. I think everyone got down to facts, I think.
+
+00:25:36:00 - 00:26:01:09
+Unknown
+Yeah, I think so, yeah. Yeah, but I think. Did you request poster or top poster? Okay. Great poster. very good. We'll see if I'm able to make it. Hopefully I will be I will be well represented there. Even if. I don't work. Okay. Have a good week. Thank you. And I'll see you. I'll see you next Tuesday, but reach out if anything comes up between.
+
+00:26:01:09 - 00:26:06:06
+Unknown
+Now that I think I might, I see a.
+

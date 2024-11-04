@@ -158,7 +158,7 @@ def plot_ridge(sn, color, index, ax, count):
     #ax.fill_between(x,y, where=(x>0.7), interpolate=True, alpha=0.3, color='tab:green')
 
 
-def sn_ridgeplots(data, site_code):
+def sn_ridgeplots(data, site_code, image_quality):
     """ Plot a ridgeplot of aggregated NDVI values per season and per year."""
     n_seasons = data.shape[0]
     fig, axs = plt.subplots(n_seasons, 1, figsize=(7, n_seasons+1), sharex=True)
@@ -318,7 +318,7 @@ def metrics_visualization(metric, aoi_list, title):
     ax.set_axisbelow(True)
 
     
-def dndvi_plot(data, startDate, endDate, cmap_lims):
+def dndvi_plot(data, startDate, endDate, cmap_lims, output_path, transparent):
     dndvi_perc = 100*((data[endDate][-1] - data[startDate][-1])/data[startDate][-1])
     
     # Plotting Change
@@ -332,9 +332,9 @@ def dndvi_plot(data, startDate, endDate, cmap_lims):
     nd = ax.imshow(dndvi_perc, cmap='seismic_r', norm=divnorm)
     cbar = plt.colorbar(nd, ax=ax, location='left', shrink=0.4, pad=-0.0025, label='NDVI Percent Change (%) \n Most Decrease to Most Increase')
 
-    #cbar.ax.yaxis.set_tick_params(color='white')  # Change tick color
-    #plt.setp(cbar.ax.yaxis.get_ticklabels(), color='white')
-    #cbar.set_label(label='NDVI Percent Change (%) \n Most Decrease to Most Increase', color='white')
+    cbar.ax.yaxis.set_tick_params(color='white')  # Change tick color
+    plt.setp(cbar.ax.yaxis.get_ticklabels(), color='white')
+    cbar.set_label(label='NDVI Percent Change (%) \n Most Decrease to Most Increase', color='white')
 
     ax.set_xticklabels([])
     ax.set_yticklabels([])
@@ -345,8 +345,10 @@ def dndvi_plot(data, startDate, endDate, cmap_lims):
     ax.spines['right'].set_visible(False)
     ax.spines['bottom'].set_visible(False)
     ax.spines['left'].set_visible(False)
+    ax.patch.set_facecolor('#2F2C2B')
+    fig.patch.set_facecolor('#2F2C2B')
 
-    plt.savefig(f'../outputs/final figures/Paper_dNDVI_{startDate}_{endDate}.png', dpi=600, bbox_inches='tight', transparent=True)
+    plt.savefig(output_path, dpi=600, bbox_inches='tight', transparent=transparent)
     plt.show()
     
     return dndvi_perc.astype("float32")
